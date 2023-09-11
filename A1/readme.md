@@ -1,4 +1,4 @@
-#Assignment 1: Finetuning a Pretrained Language Model
+# Assignment 1: Finetuning a Pretrained Language Model
 
 The goal of this assignment is to familiarize yourself with finetuning a pretrained language model using the huggingface’s transformers library with GPUs available on CHPC. This skill is essential for the upcoming homeworks and project where the goal will be to apply explainability methods on such models – if you cannot train a model, there is nothing to explain. 🙂
 
